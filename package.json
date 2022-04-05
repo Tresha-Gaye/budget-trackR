@@ -1,7 +1,7 @@
 {
-  "name": "budget-app",
+  "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application allows offline access and functionality of a budget tracker, allowing users to add expenses dn deposits to their budgert with or without a connection.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

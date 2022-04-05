@@ -33,18 +33,17 @@ THEN the deposits or expenses added while they were offline are added to their t
 ## Accomplishments and Challenges
 
 The application successfully connects to the database and syncs the Mongoose models. 
-- The API GET routes for thoughts and users displays JSON data for each route.
-- the API POST, PUT, and DELETE routes create, update and delete users, their  friends, their associated thoughts, add and remove thoughts associated reactions in the database
+
 
 **Below are a screenshots of the app showing the functionality:**
 
 Below are images from Insomnia, displaying data:  
 <br />
-![Add-friend](./public/assets/images/add-friend.jpg)  
+![Add-friend](./public/assets/images/image.jpg)  
 <br />
-![Add-thought](./public/assets/images/add-thought.jpg)  
+![Add-thought](./public/assets/images/image.jpg)  
 <br />
-![All-users](./public/assets/images/get-users.jpg) 
+![All-users](./public/assets/images/image.jpg) 
 
 ## Contributing
 
@@ -53,10 +52,11 @@ Below are images from Insomnia, displaying data:
 ## Credits
 
 **The following resources were used to complete this project:**
-1. UCONN Coding Bootcamp's modules on NoSQL/MongoDB
-2. [Mongoose](https://mongoosejs.com/docs/index.html) Documentation 
-3. [MongoDB Schema Validation](https://www.mongodb.com/docs/manual/core/schema-validation/) Documentation 
-4. [MDN Web Docs on Javascript Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) Documentation 
+1. UCONN Coding Bootcamp's modules on Progressive Web Apps
+2. [Express](https://devdocs.io/express/) Documentation 
+3. [Service Worker](https://developer.chrome.com/docs/workbox/service-worker-overview/) Documentation 
+4. [MDN Web Docs on IndexDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB) Documentation 
+5. This Medium article on [How to use IndexDB to build Progressive Web Apps](https://medium.com/jspoint/indexeddb-your-second-step-towards-progressive-web-apps-pwa-dcbcd6cc2076)
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
