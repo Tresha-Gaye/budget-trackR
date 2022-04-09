@@ -4,7 +4,7 @@
 
 This application allows offline access and functionality of a budget tracker, allowing users to add expenses dn deposits to their budgert with or without a connection. 
 
-You may view the deployed application by [clicking this link](https://drive.google.com/file/d/1OWYnzRi8q8v4JxNK0U3tAXJoHFUC7n1o/view).
+You may view the deployed application by [clicking this link](https://safe-sea-14884.herokuapp.com/).
 
 
 ## Technologies
