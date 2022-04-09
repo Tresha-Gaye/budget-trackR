@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker App
 
 ## Description
 
@@ -33,7 +33,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Accomplishments and Challenges
 
-The application successfully connects to the database and syncs the Mongoose models. 
+The application successfully connects to the database and functions online and offline, as expected. 
 
 **Below are a screenshots of the app showing the functionality:**
 
